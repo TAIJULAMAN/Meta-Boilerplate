@@ -1,5 +1,5 @@
-<details> <summary><strong>🌐 HTML Meta Tags Boilerplate (Click to Expand)</strong></summary>
-
+<details> 
+<summary><strong>🌐 HTML Meta Tags Boilerplate (Click to Expand)</strong></summary>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -61,5 +61,4 @@
   <h1>Hello, world!</h1>
 </body>
 </html>
-
 </details>
